@@ -20,4 +20,4 @@ Note that I didn't include the hyperparameters on my slideshow and posterboard. 
 
 I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions!
 
-- Yash
+
