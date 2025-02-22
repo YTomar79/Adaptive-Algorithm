@@ -12,7 +12,7 @@ Hello there! If you are reading this, you most likely are judging my project (or
 
 ## Hyperparameters
 
-Note that I didn't include the hyperparameters on my slideshow and posterboard. I did this to prevent anyone without access to this repository to prevent stealing my intellectual property as I was afraid that they would have enough information to replicate my project on their own. 
+Note that I didn't include the hyperparameters on my slideshow and posterboard. I did this to prevent anyone without access to this repository from stealing my intellectual property as I was afraid that they would have enough information to replicate my project on their own. 
 
 **Please note that YOU can view the hyperparameters in the agent.py file!**
 
