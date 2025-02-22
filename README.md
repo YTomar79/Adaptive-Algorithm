@@ -8,6 +8,6 @@ Hello there! If you are reading this, you most likely are judging my project (or
 2. The **raw** test results are also included in my repository.
 3. Model weights and policy are included in the test file.
 
-Note that I don't include the hyperparameters on my slideshow and posterboard. I did this to prevent anyone without access to this repository to prevent stealing my intellectual property as I was afraid that they would have enough information to replect the project on their own. Please note that YOU can view the hyperparameters in the agent.py file!
+Note that I didn't include the hyperparameters on my slideshow and posterboard. I did this to prevent anyone without access to this repository to prevent stealing my intellectual property as I was afraid that they would have enough information to replicate my project on their own. Please note that YOU can view the hyperparameters in the agent.py file!
 
 I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions!
