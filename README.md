@@ -16,7 +16,7 @@ Note that I didn't include the agent's hyperparameters on my slideshow and poste
 
 **Please note that YOU can view the hyperparameters in the agent.py file!**
 
-## Note to you all.
+## Note to You All.
 
 I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions!
 
