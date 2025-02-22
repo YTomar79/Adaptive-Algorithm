@@ -6,7 +6,7 @@ Hello there! If you are reading this, you most likely are judging my project (or
 
 ## Important Notes
 
-1. The algorithm was trained in Qiskit's 1.2.4 version. However, the testing script uses the most recent Qiskit version to use `backend.refresh()`.
+1. The algorithm was trained in Qiskit's 1.2.4 version. However, the testing script uses a more recent of Qiskit (1.3.2) to allow use of `backend.refresh()`.
 2. The **raw** test results are also included in my repository.
 3. Model weights and policy are included in the test file.
 
