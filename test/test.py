@@ -446,11 +446,15 @@ if __name__ == "__main__":
         num_steps=300
     )
 
-    visualizer.compare_optimizers_horizontal()
+    visualizer.statistical_validation() # before and after for fidelity and depth.
+
+    visualizer.compare_optimizers_horizontal() # this is the qiskit vs my algorithm comparison!
     
-    visualizer.create_state_space_plot().show()
-    # compare PPO optimizer results with Qiskit's transpiler using horizontal bar charts.
-    visualizer.draw_circuit_comparison()
+    visualizer.create_state_space_plot().show() # state space plot
+    
+    visualizer.draw_circuit_comparison() # draw circuits for proof of optimization
+
+    
 
 
 
