@@ -72,9 +72,9 @@ class PPOActorCriticLSTM(nn.Module):
         )
 
 class PPOAgent:
-    def __init__(self, state_size, action_size, lr=1e-5, gamma=0.99, k_epochs=4, eps_clip=0.15, gae_lambda=0.95,
-                 entropy_coefficient=0.5, entropy_decay=0.9998, replay_buffer_size=200, batch_size=32,
-                 alpha=0.6, beta_start=0.4, beta_frames=1000000, min_entropy_coeff=0.01, max_entropy_coeff=1):
+    def __init__(self, state_size, action_size, lr=None, gamma=None, k_epochs=None, eps_clip=None, gae_lambda=None,
+                 entropy_coefficient=None, entropy_decay=None, replay_buffer_size=None, batch_size=None,
+                 alpha=None, beta_start=None, beta_frames=None, min_entropy_coeff=None, max_entropy_coeff=None): # Hyperparamters are not shown...
         self.state_size = state_size
         self.action_size = action_size
         self.gamma = gamma
