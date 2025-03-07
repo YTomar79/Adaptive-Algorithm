@@ -13,8 +13,6 @@ Hello there! If you are reading this, you most likely are judging my project (or
 
 Note that I didn't include the agent's hyperparameters on my slideshow and posterboard. I did this to prevent anyone without access to this repository from stealing my intellectual property as I was afraid that they would have enough information to replicate my project on their own. 
 
-**Please note that YOU can view the hyperparameters in the agent.py file!**
-
 ## Note to You All.
 
 I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions!
