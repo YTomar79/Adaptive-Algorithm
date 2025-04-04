@@ -1,8 +1,6 @@
-# LRSEF 2025
+# HSEF 2025
 
 Hello there! If you are reading this, you most likely are judging my project (or someone trusted). I made this repository in hopes of giving you an even more in-depth snapshot of my project.
-
-
 
 ## Important Notes
 
@@ -15,6 +13,8 @@ Note that I didn't include the agent's hyperparameters on my slideshow and poste
 
 ## Note to You All.
 
-I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions!
+I'm extremly passionate when it comes to my work, and I feel like my project combined all of the skills I've taught myself into one, cohesive and impactful masterpiece. I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions.
+
+Cheers!
 
 
