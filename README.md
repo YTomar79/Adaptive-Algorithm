@@ -13,7 +13,7 @@ Note that I didn't include the agent's hyperparameters on my slideshow and poste
 
 ## Note to You All.
 
-I'm extremly passionate when it comes to my work, and I feel like my project combined all of the skills I've taught myself into one, cohesive and impactful masterpiece. I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions.
+I'm extremely passionate when it comes to my work, and I feel like my project combined all of the skills I've taught myself into one, cohesive and impactful masterpiece. I tried to make things as self-explanatory as possible, but feel free to visit my booth if you have questions.
 
 Cheers!
 
